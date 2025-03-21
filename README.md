@@ -8,8 +8,13 @@ This Bash script automates the process of backing up encrypted password files th
 🛠 Features
 
 ✅ Automated Backups – Detects and archives only updated files.
+
 ✅ Supports Multiple Directories – Backup any specified directory.
+
 ✅ Error Handling – Checks for valid paths and user input.
+
 ✅ Compression – Saves storage by creating .tar.gz archives.
+
 ✅ Logging – Records every backup operation.
+
 ✅ Cron Job Ready – Can be scheduled to run daily.
